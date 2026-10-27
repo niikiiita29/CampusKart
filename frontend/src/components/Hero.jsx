@@ -29,7 +29,7 @@ function Hero() {
         <h1>Buy • Sell • Exchange</h1>
 
         <p>
-          The marketplace exclusively for PVG students.
+          The marketplace exclusively for students.
           Buy affordable items or sell what you no longer need.
         </p>
 
